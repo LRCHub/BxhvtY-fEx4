@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "嗚呼 絢爛の泡沫が如く",
+  "base_artist": "ういにゃす・おっちょこバニー、Active Planets & AUGUST",
+  "createdAt": "2025-12-01T12:07:07.070560Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嗚呼 絢爛の泡沫が如く",
+      "artist": "ういにゃす・おっちょこバニー",
+      "has_synced": false,
+      "path": "select/pl_01_嗚呼_絢爛の泡沫が如く_ういにゃす・おっちょこバニー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "嗚呼 絢爛の泡沫が如く",
+      "artist": "ういにゃす・おっちょこバニー",
+      "has_synced": false,
+      "path": "select/pl_02_嗚呼_絢爛の泡沫が如く_ういにゃす・おっちょこバニー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "嗚呼 絢爛の泡沫が如く",
+      "artist": "ういにゃす・おっちょこバニー",
+      "has_synced": false,
+      "path": "select/pl_03_嗚呼_絢爛の泡沫が如く_ういにゃす・おっちょこバニー.txt"
+    }
+  ]
+}
